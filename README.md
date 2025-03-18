@@ -42,7 +42,7 @@ The **Expressive Robotic Hand** project is a state-of-the-art system designed to
   - **Infill:** 20–30% (using Grid or Gyroid infill) to ensure strength.
   - **Supports:** Enabled for overhangs, particularly in joint areas.
 - **Example Image:**
-  ![3D Print on Build Plate](docs/3d_print.jpeg)
+  ![3D Print on Build Plate](docs/3dprint.jpg)
 
 ### Assembly
 - **Finger Segments:** 3D-printed parts are assembled using pins or screws.
@@ -197,6 +197,8 @@ The **Expressive Robotic Hand** project is a state-of-the-art system designed to
 ## 8. Including Images and Videos
 
 To include images or videos from the `docs` folder, use relative paths:
-  ![3D Print on Build Plate](docs/3d_print.jpeg)
+  ![3D Print on Build Plate](docs/3dprint.jeg)
   ![Assembled Robotic Hand](docs/hand.jpg)
+
+## For more details watch the video
 ![Watch the Demonstration Video](docs/Video.mp4)
